@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.rollaball_module01_v1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\21784145\\Documents\\GitHub\\VR-Putt-Putt\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Rollaball_Module01_V1 [Testing]"
+        }
+      }
+    }
+  ]
+}
